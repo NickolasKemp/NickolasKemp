@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickolasKemp
-- 👀 I’m interested in Frontend
+- 👀 I’m interested in Frontend, Backend
 - 🌱 I’m currently React, Next, Redux, Nest, TypeScript, Prisma, PosgreSQL
 
 <!---
